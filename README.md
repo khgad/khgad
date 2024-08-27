@@ -64,7 +64,10 @@
 <h3 align="center">DevOps:</h3>
 <p align="center" style="margin-top: 10px;">
 <a style="padding: 4px;" href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="gcp" width="40" height="40"/> 
+</a> 
+<a style="padding: 4px;" href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
 </a> 
 <!-- <a style="padding: 4px;" href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
